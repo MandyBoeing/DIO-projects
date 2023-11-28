@@ -1,8 +1,4 @@
-
-
-
-
-
+#Sistema Bancário simples com apenas um Usuário. Possibilidade de Saque, depósitos e extratos. Curso de Formação - Python Developer. Desafio Básico.
 menu = """Informe a opção desejada:
 
 [d] Depositar
